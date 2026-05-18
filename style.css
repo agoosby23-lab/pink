@@ -1545,12 +1545,4 @@ footer {
   gap: 12px;
 }
 
-h1 {
-     font-size: 30px;
-}
 
-.logo, h1 {
-  display: flex;
-  position: absolute;
-  top: 10px;
-}
